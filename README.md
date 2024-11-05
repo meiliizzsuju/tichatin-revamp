@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ec29cc16-f12a-4279-8296-14f290a0e27d/deploy-status)](https://app.netlify.com/sites/tichatin-revamp/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
